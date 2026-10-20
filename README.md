@@ -1,6 +1,6 @@
 
 
-# Project 1: AI-Enabled School Uniform & ID Checker
+# AI-Enabled School Uniform & ID Checker
 
 **Contributor:**
 - Prathik Lobo
