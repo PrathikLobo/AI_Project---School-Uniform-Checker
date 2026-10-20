@@ -1,29 +1,31 @@
 
 
-# Project 1: AI-Enabled Attendance System
+# Project 1: AI-Enabled School Uniform & ID Checker
 
 **Contributor:**
-- Fagun Bhutani
+- Prathik Lobo
 
-**Class:** IX
+**Class:** XII D
 
-**School:** DAV Public School, Pushpanjali Enclave, Delhi
+**School:** Metropolitan Intl Indian School, Ajman
 
 ## Required Libraries
 
 1. **Opencv-python**
-2. **Face_Recognition**
-
-   If you encounter an error with this library, refer to [this video](https://youtu.be/LAeACJdv40U):
-
-   1. Try to `pip install face_recognition`
-   2. If you get an error related to `cmake` and are unable to build the `dlib` wheel:
-      - `pip install cmake`
-      - Download the library from the GitHub link according to your version.
-      - Copy the file to a new folder on your desktop.
-      - Copy the path of the folder.
-      - Run `pip install (file path)` (ensure you change the slashes as needed).
-
+ 2.install opencv-python
+        
+2. **YOLO-Object Detection Model**
+     
 3. **Pillow**
-
    1. Run `pip install pillow`
+      
+4. **Numpy**
+   1. Run `pip install numpy`
+
+5. **Ultralytics**
+
+   1. Run `pip install ultralytics`
+
+
+
+      *This project falls under Computer Vision. Its accuracy depends on the training data and the detection model used. A trained model containing images of the required school uniform and ID cards may be necessary for reliable detection.
