@@ -4,7 +4,10 @@
 
 **Contributor:**
 - Prathik Lobo
-
+- Haider Josepha
+- Saif Ibrahim
+- Hamdan Almeida
+- Syed Adam
 **Class:** XII D
 
 **School:** Metropolitan Intl Indian School, Ajman
