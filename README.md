@@ -12,7 +12,7 @@
 ## Required Libraries
 
 1. **Opencv-python**
- 2.install opencv-python
+  1. Run `pip install opencv-python`
         
 2. **YOLO-Object Detection Model**
      
