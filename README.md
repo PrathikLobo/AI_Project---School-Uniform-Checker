@@ -12,17 +12,17 @@
 ## Required Libraries
 
 1. **Opencv-python**
-  1. Run `pip install opencv-python`
+   1. Run `pip install opencv-python`
         
-2. **YOLO-Object Detection Model**
+3. **YOLO-Object Detection Model**
      
-3. **Pillow**
+4. **Pillow**
    1. Run `pip install pillow`
       
-4. **Numpy**
+5. **Numpy**
    1. Run `pip install numpy`
 
-5. **Ultralytics**
+6. **Ultralytics**
 
    1. Run `pip install ultralytics`
 
