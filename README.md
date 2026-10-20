@@ -4,7 +4,7 @@
 
 **Contributor:**
 - Prathik Lobo
-- Haider Josepha
+- Haider HoseFAH
 - Saif Ibrahim
 - Hamdan Almeida
 - Syed Adam
